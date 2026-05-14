@@ -31,8 +31,8 @@ if (!fs.existsSync(IMAGE_PATH)) {
 // EMAIL OPTIONS
 // ===============================
 const mailOptions = {
-    from: '"Cute Morning Bot 🌸" <srivastava546558624696@gmail.com>',
-    to: "vaibhavkrishnasrivastava@gmail.com",
+    from: '"Your Robot" <srivastava546558624696@gmail.com>',
+    to: "soumyasingh.op.icrt@gmail.com",
     subject: "🌞 Good Morning Sunshine!",
 
     html: `
