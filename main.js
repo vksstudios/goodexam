@@ -7,8 +7,7 @@ const fs = require("fs");
 // ===============================
 // CONFIG
 // ===============================
-const IMAGE_PATH = "C:/Users/vaibh/OneDrive/Desktop/VKS/java projects/image.jpeg";
-
+const IMAGE_PATH = "/root/goodexam/image.jpeg";
 // ===============================
 // EMAIL TRANSPORT
 // ===============================
